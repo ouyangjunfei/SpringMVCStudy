@@ -46,4 +46,4 @@ Tomcat版本与对应的`servlet-api`和`jsp-api`参考[Apache Tomcat Versions](
 
 默认`main`分支不包含SSM整合项目
 
-SSM整合项目位于分支`ssm`
+SSM整合项目位于分支[ssm](https://github.com/ouyangjunfei/SpringMVCStudy/tree/ssm)
